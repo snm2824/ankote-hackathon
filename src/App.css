@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  /*background-image: linear-gradient(270deg, #667eea 0%, #667eef 100%);*/
+  background-image: linear-gradient(270deg, #42275a 0%, #734b6d 100%);
+  /*#42275a → #734b6d*/
+}
+ul li{
+  list-style: none;
+  display: inline;
+  padding: 10px;
+}
+
